@@ -1,0 +1,8 @@
+Place your hero illustration in this folder, named exactly:
+
+    hero.png
+
+Style: monochrome only (black & white) — ink / manga / pencil-sketch / abstract.
+Recommended width: ~1760px (displays at 880px, sharp on retina screens).
+
+Delete this file after adding hero.png.
