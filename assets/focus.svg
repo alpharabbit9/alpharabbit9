@@ -1,0 +1,80 @@
+<svg viewBox="0 0 1600 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current focus: Full Stack, AI Automation, Backend, Open Source">
+  <!-- transparent canvas — cards float on the page background -->
+
+  <!-- ══ CARD 01 — FULL STACK ══ -->
+  <g>
+    <rect x="30" y="25" width="370" height="280" rx="10" fill="#131313" stroke="#262626" stroke-width="1.5"/>
+    <rect x="58" y="25" width="44" height="3" fill="#FFFFFF"/>
+    <text x="58" y="95" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="24" letter-spacing="3" fill="#4A4A4A">01</text>
+    <!-- icon: stacked layers -->
+    <g stroke="#8A8A8A" stroke-width="2.2" fill="none" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M328 71 348 61 368 71 348 81 Z"/>
+      <path d="M328 83 348 93 368 83"/>
+      <path d="M328 95 348 105 368 95"/>
+    </g>
+    <text x="58" y="175" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="3.5" fill="#F2F2F2">FULL STACK</text>
+    <line x1="58" y1="196" x2="150" y2="196" stroke="#2A2A2A" stroke-width="1.5"/>
+    <text x="58" y="238" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">End-to-end products —</text>
+    <text x="58" y="266" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">interface to infrastructure.</text>
+  </g>
+
+  <!-- ══ CARD 02 — AI AUTOMATION ══ -->
+  <g>
+    <rect x="420" y="25" width="370" height="280" rx="10" fill="#131313" stroke="#262626" stroke-width="1.5"/>
+    <rect x="448" y="25" width="44" height="3" fill="#FFFFFF"/>
+    <text x="448" y="95" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="24" letter-spacing="3" fill="#4A4A4A">02</text>
+    <!-- icon: connected nodes -->
+    <g stroke="#8A8A8A" stroke-width="2.2" fill="none">
+      <circle cx="724" cy="66" r="5"/>
+      <circle cx="724" cy="98" r="5"/>
+      <circle cx="756" cy="82" r="6"/>
+      <path d="M729 68 750 79M729 96 750 85"/>
+    </g>
+    <circle cx="756" cy="82" r="2.5" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="448" y="175" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="3.5" fill="#F2F2F2">AI AUTOMATION</text>
+    <line x1="448" y1="196" x2="540" y2="196" stroke="#2A2A2A" stroke-width="1.5"/>
+    <text x="448" y="238" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">Agents, pipelines and</text>
+    <text x="448" y="266" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">workflow tooling.</text>
+  </g>
+
+  <!-- ══ CARD 03 — BACKEND ══ -->
+  <g>
+    <rect x="810" y="25" width="370" height="280" rx="10" fill="#131313" stroke="#262626" stroke-width="1.5"/>
+    <rect x="838" y="25" width="44" height="3" fill="#FFFFFF"/>
+    <text x="838" y="95" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="24" letter-spacing="3" fill="#4A4A4A">03</text>
+    <!-- icon: server racks -->
+    <g stroke="#8A8A8A" stroke-width="2.2" fill="none">
+      <rect x="1108" y="58" width="40" height="16" rx="3"/>
+      <rect x="1108" y="82" width="40" height="16" rx="3"/>
+    </g>
+    <circle cx="1117" cy="66" r="2.2" fill="#8A8A8A"/>
+    <circle cx="1117" cy="90" r="2.2" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="838" y="175" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="3.5" fill="#F2F2F2">BACKEND</text>
+    <line x1="838" y1="196" x2="930" y2="196" stroke="#2A2A2A" stroke-width="1.5"/>
+    <text x="838" y="238" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">APIs, data models and</text>
+    <text x="838" y="266" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">system design.</text>
+  </g>
+
+  <!-- ══ CARD 04 — OPEN SOURCE ══ -->
+  <g>
+    <rect x="1200" y="25" width="370" height="280" rx="10" fill="#131313" stroke="#262626" stroke-width="1.5"/>
+    <rect x="1228" y="25" width="44" height="3" fill="#FFFFFF"/>
+    <text x="1228" y="95" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="24" letter-spacing="3" fill="#4A4A4A">04</text>
+    <!-- icon: git fork -->
+    <g stroke="#8A8A8A" stroke-width="2.2" fill="none" stroke-linecap="round">
+      <circle cx="1506" cy="62" r="5.5"/>
+      <circle cx="1538" cy="62" r="5.5"/>
+      <circle cx="1522" cy="100" r="5.5"/>
+      <path d="M1506 68v6q0 8 8 8h16q8 0 8-8v-6"/>
+      <path d="M1522 82v12"/>
+    </g>
+    <text x="1228" y="175" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="3.5" fill="#F2F2F2">OPEN SOURCE</text>
+    <line x1="1228" y1="196" x2="1320" y2="196" stroke="#2A2A2A" stroke-width="1.5"/>
+    <text x="1228" y="238" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">Contributing, maintaining</text>
+    <text x="1228" y="266" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#6E6E6E">and giving back.</text>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rifat Ahmed — Developer Portfolio">
+  <!-- canvas -->
+  <rect width="1600" height="600" fill="#0D0D0D"/>
+
+  <!-- fine grid -->
+  <path d="M100 0V600M200 0V600M300 0V600M400 0V600M500 0V600M600 0V600M700 0V600M800 0V600M900 0V600M1000 0V600M1100 0V600M1200 0V600M1300 0V600M1400 0V600M1500 0V600" stroke="#141414" stroke-width="1"/>
+  <path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600M0 500H1600" stroke="#141414" stroke-width="1"/>
+
+  <!-- corner crop marks -->
+  <g stroke="#3D3D3D" stroke-width="2">
+    <path d="M24 44V24H44"/>
+    <path d="M1556 24H1576V44"/>
+    <path d="M1576 556V576H1556"/>
+    <path d="M44 576H24V556"/>
+  </g>
+
+  <!-- ══ ENSO (ink circle) ══ -->
+  <g>
+    <!-- dashed orbit, slow rotation -->
+    <circle cx="1245" cy="300" r="238" fill="none" stroke="#1E1E1E" stroke-width="1.5" stroke-dasharray="3 14">
+      <animateTransform attributeName="transform" type="rotate" from="0 1245 300" to="360 1245 300" dur="90s" repeatCount="indefinite"/>
+    </circle>
+    <!-- ghost brush ring -->
+    <circle cx="1245" cy="300" r="195" fill="none" stroke="#191919" stroke-width="34"/>
+    <!-- ghost kanji: development -->
+    <text x="1245" y="352" text-anchor="middle" font-family="'Yu Gothic','Hiragino Sans','Noto Sans JP',sans-serif" font-size="150" letter-spacing="14" fill="#1C1C1C">開発</text>
+    <!-- ink stroke, draws itself once -->
+    <circle cx="1245" cy="300" r="195" fill="none" stroke="#F5F5F5" stroke-width="3" stroke-linecap="round" stroke-dasharray="1225" stroke-dashoffset="1225" transform="rotate(-90 1245 300)">
+      <animate attributeName="stroke-dashoffset" from="1225" to="147" dur="2.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    </circle>
+    <!-- pulsing dot at the enso opening -->
+    <circle cx="1112" cy="158" r="5" fill="#FFFFFF">
+      <animate attributeName="r" values="4;6.5;4" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- vertical kanji accent: developer -->
+  <g font-family="'Yu Gothic','Hiragino Sans','Noto Sans JP',sans-serif" font-size="32" fill="#2E2E2E">
+    <text x="1548" y="196">開</text>
+    <text x="1548" y="248">発</text>
+    <text x="1548" y="300">者</text>
+  </g>
+
+  <!-- top meta row -->
+  <g font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" fill="#525252">
+    <text x="110" y="70" letter-spacing="6">THE CRAFT OF SOFTWARE</text>
+    <text x="1490" y="70" letter-spacing="3" text-anchor="end">SYLHET, BD — 24.89°N / 91.87°E</text>
+  </g>
+
+  <!-- ══ NAME BLOCK ══ -->
+  <g>
+    <rect x="110" y="128" width="10" height="10" fill="#FFFFFF"/>
+    <text x="136" y="138" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="19" letter-spacing="6" fill="#737373">DEVELOPER PORTFOLIO — VOL. 01</text>
+
+    <text x="104" y="308" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="148" font-weight="800" letter-spacing="26" fill="#FFFFFF">RIFAT</text>
+    <text x="104" y="448" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="148" font-weight="800" letter-spacing="26" fill="none" stroke="#E8E8E8" stroke-width="2.5">AHMED</text>
+
+    <line x1="112" y1="487" x2="640" y2="487" stroke="#2A2A2A" stroke-width="1"/>
+
+    <text x="110" y="530" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="21" letter-spacing="5" fill="#A3A3A3">FULL STACK · AI AUTOMATION · BACKEND · OPEN SOURCE</text>
+    <rect x="990" y="512" width="11" height="22" fill="#FFFFFF">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- bottom meta row -->
+  <g fill="#A3A3A3">
+    <rect x="110" y="552" width="3" height="20"/>
+    <rect x="117" y="552" width="2" height="20"/>
+    <rect x="123" y="552" width="6" height="20"/>
+    <rect x="133" y="552" width="2" height="20"/>
+    <rect x="139" y="552" width="4" height="20"/>
+    <rect x="147" y="552" width="2" height="20"/>
+    <rect x="153" y="552" width="7" height="20"/>
+    <rect x="164" y="552" width="3" height="20"/>
+    <rect x="171" y="552" width="2" height="20"/>
+    <rect x="177" y="552" width="5" height="20"/>
+    <rect x="186" y="552" width="2" height="20"/>
+    <rect x="192" y="552" width="4" height="20"/>
+  </g>
+  <text x="1490" y="568" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="16" letter-spacing="4" fill="#525252">MMXXVI — MONOCHROME EDITION</text>
+</svg>
