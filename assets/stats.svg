@@ -1,0 +1,70 @@
+<svg viewBox="0 0 1600 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub statistics for Rifat Ahmed: 242 contributions in the past year, current streak 1, longest streak 13, 457 commits, 30 pull requests, 0 issues, 87 repositories.">
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.1s" fill="freeze"/><text x="345" y="108" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" fill="#F5F5F5">242</text><text x="345" y="150" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" letter-spacing="3.5" fill="#8A8A8A">CONTRIBUTIONS</text><text x="345" y="176" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" letter-spacing="2.5" fill="#4F4F4F">PAST 12 MONTHS</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.5s" fill="freeze"/><text x="1255" y="108" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" fill="#F5F5F5">13</text><text x="1255" y="150" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" letter-spacing="3.5" fill="#8A8A8A">LONGEST STREAK</text><text x="1255" y="176" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" letter-spacing="2.5" fill="#4F4F4F">DAYS</text></g>
+<g><circle cx="800" cy="82" r="58" fill="none" stroke="#242424" stroke-width="3"/><circle cx="800" cy="82" r="58" fill="none" stroke="#F2F2F2" stroke-width="3" stroke-linecap="round" stroke-dasharray="364" stroke-dashoffset="364" transform="rotate(-90 800 82)"><animate attributeName="stroke-dashoffset" from="364" to="0" dur="1.3s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/></circle>
+<g transform="translate(800 26)"><path d="M0 -14 C-9 -2 -12 6 -4 15 C-6 8 -2 4 0 2 C1 8 5 9 4 15 C11 8 12 -2 4 -9 C5 -4 3 -1 1 0 C2 -6 1 -10 0 -14 Z" fill="#FFFFFF"><animate attributeName="opacity" values="1;0.55;1" dur="1.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" additive="sum" values="1 1;1.08 0.94;1 1" dur="1.4s" repeatCount="indefinite"/></path></g>
+<text x="800" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" fill="#F5F5F5">1</text><text x="800" y="168" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="17" letter-spacing="3.5" fill="#8A8A8A">CURRENT STREAK</text><text x="800" y="192" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="12" letter-spacing="2.5" fill="#4F4F4F">AS OF TODAY</text></g>
+<line x1="573" y1="45" x2="573" y2="150" stroke="#262626" stroke-width="1.4"/>
+<line x1="1027" y1="45" x2="1027" y2="150" stroke="#262626" stroke-width="1.4"/>
+<rect x="40" y="232" width="740" height="340" rx="14" fill="#131313" stroke="#262626" stroke-width="1.5"/>
+<rect x="72" y="232" width="50" height="3" fill="#FFFFFF"/>
+<text x="76" y="284" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="1.5" fill="#F2F2F2">RIFAT AHMED — GITHUB STATS</text>
+<line x1="76" y1="302" x2="744" y2="302" stroke="#1E1E1E" stroke-width="1.4"/>
+<path transform="translate(96 335)" stroke="#9A9A9A" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round" d="M0 -9 L2.6 -2.8 L9.2 -2.8 L3.9 1.4 L5.8 8 L0 4 L-5.8 8 L-3.9 1.4 L-9.2 -2.8 L-2.6 -2.8 Z"/>
+<text x="122" y="340" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#A3A3A3">Total Stars Earned</text>
+<text x="740" y="340" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="19" font-weight="700" fill="#F2F2F2">0</text>
+<line x1="96" y1="358" x2="740" y2="358" stroke="#191919" stroke-width="1"/>
+<g transform="translate(96 379)" stroke="#9A9A9A" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="5"/><path d="M-11 0 h6 M5 0 h6"/></g>
+<text x="122" y="384" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#A3A3A3">Total Commits (all-time)</text>
+<text x="740" y="384" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="19" font-weight="700" fill="#F2F2F2">457</text>
+<line x1="96" y1="402" x2="740" y2="402" stroke="#191919" stroke-width="1"/>
+<g transform="translate(96 423)" stroke="#9A9A9A" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="-7" cy="-7" r="3.2"/><circle cx="-7" cy="7" r="3.2"/><circle cx="7" cy="7" r="3.2"/><path d="M-7 -3.5 v11 M7 3.8 V-2 a3 3 0 0 0 -3 -3 h-4"/></g>
+<text x="122" y="428" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#A3A3A3">Total Pull Requests</text>
+<text x="740" y="428" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="19" font-weight="700" fill="#F2F2F2">30</text>
+<line x1="96" y1="446" x2="740" y2="446" stroke="#191919" stroke-width="1"/>
+<g transform="translate(96 467)" stroke="#9A9A9A" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="0" cy="0" r="8"/></g><circle cx="96" cy="467" r="1.9" fill="#9A9A9A"/>
+<text x="122" y="472" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#A3A3A3">Total Issues</text>
+<text x="740" y="472" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="19" font-weight="700" fill="#F2F2F2">0</text>
+<line x1="96" y1="490" x2="740" y2="490" stroke="#191919" stroke-width="1"/>
+<g transform="translate(96 511)" stroke="#9A9A9A" stroke-width="1.9" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M-8 -8 h11 a2 2 0 0 1 2 2 v14 h-11 a2 2 0 0 0 -2 2 z"/><path d="M-8 10 a2 2 0 0 1 2 -2 h11"/></g>
+<text x="122" y="516" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#A3A3A3">Public Repositories</text>
+<text x="740" y="516" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="19" font-weight="700" fill="#F2F2F2">87</text>
+<rect x="820" y="232" width="740" height="340" rx="14" fill="#131313" stroke="#262626" stroke-width="1.5"/>
+<rect x="852" y="232" width="50" height="3" fill="#FFFFFF"/>
+<text x="856" y="284" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="1.5" fill="#F2F2F2">MOST USED LANGUAGES</text>
+<line x1="856" y1="302" x2="1524" y2="302" stroke="#1E1E1E" stroke-width="1.4"/>
+<clipPath id="barclip"><rect x="856" y="328" width="668" height="22" rx="11"/></clipPath>
+<rect x="856.0" y="328" width="399.3" height="22" fill="#F5F5F5" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/></rect>
+<rect x="1256.8" y="328" width="115.4" height="22" fill="#CFCFCF" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.68s" fill="freeze"/></rect>
+<rect x="1373.7" y="328" width="73.3" height="22" fill="#A6A6A6" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.76s" fill="freeze"/></rect>
+<rect x="1448.5" y="328" width="23.9" height="22" fill="#808080" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.84s" fill="freeze"/></rect>
+<rect x="1473.9" y="328" width="15.2" height="22" fill="#5F5F5F" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.92s" fill="freeze"/></rect>
+<rect x="1490.6" y="328" width="15.2" height="22" fill="#474747" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.00s" fill="freeze"/></rect>
+<rect x="1507.3" y="328" width="6.5" height="22" fill="#343434" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.08s" fill="freeze"/></rect>
+<rect x="1515.3" y="328" width="6.5" height="22" fill="#272727" clip-path="url(#barclip)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.16s" fill="freeze"/></rect>
+<rect x="856" y="328" width="668" height="22" rx="11" fill="none" stroke="#262626" stroke-width="1"/>
+<rect x="856" y="383" width="12" height="12" rx="3" fill="#F5F5F5"/>
+<text x="878" y="394" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">JavaScript</text>
+<text x="1156" y="394" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">60.0%</text>
+<rect x="1204" y="383" width="12" height="12" rx="3" fill="#CFCFCF"/>
+<text x="1226" y="394" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">HTML</text>
+<text x="1504" y="394" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">17.5%</text>
+<rect x="856" y="429" width="12" height="12" rx="3" fill="#A6A6A6"/>
+<text x="878" y="440" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">TypeScript</text>
+<text x="1156" y="440" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">11.2%</text>
+<rect x="1204" y="429" width="12" height="12" rx="3" fill="#808080"/>
+<text x="1226" y="440" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">CSS</text>
+<text x="1504" y="440" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">3.8%</text>
+<rect x="856" y="475" width="12" height="12" rx="3" fill="#5F5F5F"/>
+<text x="878" y="486" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">Python</text>
+<text x="1156" y="486" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">2.5%</text>
+<rect x="1204" y="475" width="12" height="12" rx="3" fill="#474747"/>
+<text x="1226" y="486" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">Dart</text>
+<text x="1504" y="486" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">2.5%</text>
+<rect x="856" y="521" width="12" height="12" rx="3" fill="#343434"/>
+<text x="878" y="532" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">C++</text>
+<text x="1156" y="532" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">1.2%</text>
+<rect x="1204" y="521" width="12" height="12" rx="3" fill="#272727"/>
+<text x="1226" y="532" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="15.5" fill="#B0B0B0">C</text>
+<text x="1504" y="532" text-anchor="end" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" fill="#6E6E6E">1.2%</text>
+</svg>
