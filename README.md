@@ -12,7 +12,7 @@
 
 <!-- HERO — custom monochrome SVG banner (assets/hero.svg).
      The name lives inside the banner; animated ink enso + typing cursor. -->
-<img src="./assets/hero.svg" alt="RIFAT AHMED — Developer Portfolio" width="100%" />
+<img src="./assets/hero.jpg" alt="RIFAT AHMED — Developer Portfolio" width="100%" />
 
 <br/>
 <br/>
