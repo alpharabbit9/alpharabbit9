@@ -1,23 +1,23 @@
 <!-- ══════════════════════════════════════════════════════════════════════
-     RIFAT AHMED — GITHUB PROFILE README
-     Monochrome editorial profile. Canvas: #0D0D0D · Cards: #191919
-     Borders: #2A2A2A · Text: #FFFFFF / #A3A3A3 / #737373
-     USAGE: place this file as README.md in a repo named after your
-     GitHub username. REPLACE every "alpharabbit9" with your username.
+     RIFAT AHMED (@alpharabbit9) — GITHUB PROFILE README
+     Monochrome editorial profile. Canvas: #0D0D0D · Cards: #131313
+     Borders: #262626 · Text: #FFFFFF / #A3A3A3 / #737373
+     Custom animated SVGs live in /assets and are generated to match the theme.
      ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-<!-- HERO — custom monochrome SVG banner (assets/hero.svg).
-     The name lives inside the banner; animated ink enso + typing cursor. -->
-<img src="./assets/hero.jpg" alt="RIFAT AHMED — Developer Portfolio" width="100%" />
+<!-- ══ HERO ── monochrome portrait banner (assets/hero.jpg) ══ -->
+<img src="./assets/hero.jpg" alt="Rifat Ahmed — Developer" width="100%" />
 
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=A3A3A3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;AI+Automation+Engineer;Backend+Systems;Open+Source+Contributor" alt="Full Stack Developer · AI Automation · Backend Systems · Open Source" />
+# R I F A T &nbsp; A H M E D
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1100&color=E5E5E5&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;AI+Automation+Engineer;Backend+Systems+Builder;Open+Source+Contributor" alt="Full Stack Developer · AI Automation Engineer · Backend Systems · Open Source" />
 
 <br/>
 
@@ -28,15 +28,13 @@
 
 <!-- NAVIGATION -->
 <samp>
-<a href="#-about">ABOUT</a>
+<a href="#-statistics">STATS</a>
 &nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="#-current-focus">FOCUS</a>
 &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="#-tech-stack">STACK</a>
-&nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="#-featured-projects">PROJECTS</a>
 &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="#-statistics">STATS</a>
+<a href="#-activity">ACTIVITY</a>
 &nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="#-connect">CONNECT</a>
 </samp>
@@ -46,276 +44,14 @@
 
 <!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=alpharabbit9&style=flat-square&color=191919&label=VISITORS&labelColor=0D0D0D" alt="visitors" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS%20·%20FREELANCE-0D0D0D?style=flat-square&labelColor=191919" alt="open to work" />
 
 <br/>
-<br/>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 </div>
-
-<!-- ══════════════════════ ABOUT ══════════════════════ -->
-
-## ⌘ ABOUT
-
-<table width="100%">
-<tr>
-<td width="40"></td>
-<td width="220" valign="top">
-
-<br/>
-
-<samp>[ 01 ]</samp> <br/> <samp><b>WHO I AM</b></samp>
-
-</td>
-<td valign="top">
-
-<br/>
-
-Final-year CSE student who treats software like craft — fewer features, better systems. Most days I build full-stack products and automation pipelines; most nights I read about how large systems fail.
-
-</td>
-<td width="40"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"><sub><samp>─────────────────────────────────────────────</samp></sub></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td valign="top">
-
-<samp>[ 02 ]</samp> <br/> <samp><b>WHAT I BUILD</b></samp>
-
-</td>
-<td valign="top">
-
-Production-grade web applications, AI-powered automation tools, and backend services designed to stay simple under load.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"><sub><samp>─────────────────────────────────────────────</samp></sub></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td valign="top">
-
-<samp>[ 03 ]</samp> <br/> <samp><b>WHERE I'M HEADED</b></samp>
-
-</td>
-<td valign="top">
-
-Building scalable AI products and backend systems while contributing to open source.
-
-<br/>
-<br/>
-
-</td>
-<td></td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">──────────────────────────────</div>
-
-<br/>
-
-<!-- ══════════════════════ CURRENT FOCUS ══════════════════════ -->
-
-## ⌘ CURRENT FOCUS
-
-<div align="center">
-
-<!-- Custom SVG cards (assets/focus.svg) — animated status dots -->
-<img src="./assets/focus.svg" alt="Current Focus: 01 Full Stack — end-to-end products · 02 AI Automation — agents, pipelines, workflow tooling · 03 Backend — APIs, data models, system design · 04 Open Source — contributing and maintaining" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">──────────────────────────────</div>
-
-<br/>
-
-<!-- ══════════════════════ TECH STACK ══════════════════════ -->
-
-## ⌘ TECH STACK
-
-<table width="100%">
-<tr>
-<td width="160"><samp>LANGUAGES</samp></td>
-<td>
-<img src="https://img.shields.io/badge/JavaScript-191919?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-191919?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-191919?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C++-191919?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-</td>
-</tr>
-<tr>
-<td><samp>FRONTEND</samp></td>
-<td>
-<img src="https://img.shields.io/badge/React-191919?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-191919?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-191919?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/HTML-191919?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-191919?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-</td>
-</tr>
-<tr>
-<td><samp>BACKEND</samp></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-191919?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-191919?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-</td>
-</tr>
-<tr>
-<td><samp>DATABASE</samp></td>
-<td>
-<img src="https://img.shields.io/badge/MongoDB-191919?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-191919?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Prisma-191919?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-</td>
-</tr>
-<tr>
-<td><samp>DEVOPS</samp></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-191919?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-191919?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-191919?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-191919?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-</td>
-</tr>
-<tr>
-<td><samp>CLOUD</samp></td>
-<td>
-<img src="https://img.shields.io/badge/Firebase-191919?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Vercel-191919?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-191919?style=flat-square&logo=render&logoColor=white" alt="Render" />
-</td>
-</tr>
-<tr>
-<td><samp>LEARNING</samp></td>
-<td>
-<img src="https://img.shields.io/badge/Kubernetes-191919?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-191919?style=flat-square&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/System_Design-191919?style=flat-square&logoColor=white" alt="System Design" />
-<img src="https://img.shields.io/badge/AI_Agents-191919?style=flat-square&logoColor=white" alt="AI Agents" />
-<img src="https://img.shields.io/badge/Microservices-191919?style=flat-square&logoColor=white" alt="Microservices" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">──────────────────────────────</div>
-
-<br/>
-
-<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
-
-## ⌘ FEATURED PROJECTS
-
-<table width="100%">
-<tr>
-<td>
-
-<br/>
-
-&nbsp;&nbsp;<samp>001</samp> &nbsp; **AI RESUME BUILDER**
-
-&nbsp;&nbsp;<sub>Generates tailored, ATS-friendly resumes from a single profile using LLM pipelines.</sub>
-
-&nbsp;&nbsp;<sub><samp>NEXT.JS · NODE.JS · POSTGRESQL · LLM API</samp></sub>
-
-&nbsp;&nbsp;<sub><a href="https://github.com/alpharabbit9/ai-resume-builder">REPOSITORY</a> &nbsp;·&nbsp; <a href="#">LIVE DEMO</a></sub> <!-- replace links -->
-
-<br/>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<br/>
-
-&nbsp;&nbsp;<samp>002</samp> &nbsp; **LEADQUAL AI**
-
-&nbsp;&nbsp;<sub>Scores and qualifies inbound leads automatically before they ever reach a sales inbox.</sub>
-
-&nbsp;&nbsp;<sub><samp>PYTHON · FASTAPI · MONGODB · LANGCHAIN</samp></sub>
-
-&nbsp;&nbsp;<sub><a href="https://github.com/alpharabbit9/leadqual-ai">REPOSITORY</a> &nbsp;·&nbsp; <a href="#">LIVE DEMO</a></sub> <!-- replace links -->
-
-<br/>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<br/>
-
-&nbsp;&nbsp;<samp>003</samp> &nbsp; **MERN SOCIAL PLATFORM**
-
-&nbsp;&nbsp;<sub>Full social network with real-time feeds, auth, and media uploads — built end to end.</sub>
-
-&nbsp;&nbsp;<sub><samp>MONGODB · EXPRESS · REACT · NODE.JS · SOCKET.IO</samp></sub>
-
-&nbsp;&nbsp;<sub><a href="https://github.com/alpharabbit9/mern-social">REPOSITORY</a> &nbsp;·&nbsp; <a href="#">LIVE DEMO</a></sub> <!-- replace links -->
-
-<br/>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<br/>
-
-&nbsp;&nbsp;<samp>004</samp> &nbsp; **AUTOMATION DASHBOARD**
-
-&nbsp;&nbsp;<sub>One control panel for scheduled jobs, webhooks, and AI agent workflows.</sub>
-
-&nbsp;&nbsp;<sub><samp>TYPESCRIPT · NEXT.JS · PRISMA · DOCKER</samp></sub>
-
-&nbsp;&nbsp;<sub><a href="https://github.com/alpharabbit9/automation-dashboard">REPOSITORY</a> &nbsp;·&nbsp; <a href="#">LIVE DEMO</a></sub> <!-- replace links -->
-
-<br/>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<br/>
-
-&nbsp;&nbsp;<samp>005</samp> &nbsp; **PORTFOLIO WEBSITE**
-
-&nbsp;&nbsp;<sub>Minimal monochrome portfolio — the same design language as this profile, on the open web.</sub>
-
-&nbsp;&nbsp;<sub><samp>NEXT.JS · TAILWIND CSS · VERCEL</samp></sub>
-
-&nbsp;&nbsp;<sub><a href="https://github.com/alpharabbit9/portfolio">REPOSITORY</a> &nbsp;·&nbsp; <a href="#">LIVE DEMO</a></sub> <!-- replace links -->
-
-<br/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">──────────────────────────────</div>
-
-<br/>
 
 <!-- ══════════════════════ STATISTICS ══════════════════════ -->
 
@@ -325,17 +61,68 @@ Building scalable AI products and backend systems while contributing to open sou
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alpharabbit9&show_icons=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A3A3A3&icon_color=FFFFFF&border_color=2A2A2A&rank_icon=percentile" alt="GitHub Stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpharabbit9&layout=compact&bg_color=0D0D0D&title_color=FFFFFF&text_color=A3A3A3&border_color=2A2A2A" alt="Top Languages" />
+<!-- Self-contained monochrome dashboard (assets/stats.svg) — animated headline
+     figures, GitHub-stats card and a Most-Used-Languages bar. No external
+     stat service, so it never renders as a broken image. Regenerate with the
+     build script to refresh the numbers. -->
+<img src="./assets/stats.svg" width="100%" alt="GitHub statistics — 242 contributions in the past year · current streak 1 · longest streak 13 · 457 commits · 30 pull requests · 0 issues · 87 repositories · most used languages JavaScript 60%, HTML 17.5%, TypeScript 11.2%, CSS, Python, Dart, C++, C" />
+
+<br/>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ══════════════════════ CURRENT FOCUS ══════════════════════ -->
+
+## ⌘ CURRENT FOCUS
+
+<div align="center">
+
+<!-- Animated monochrome SVG — status dots, drawing underlines, sweeping sheen -->
+<img src="./assets/focus.svg" width="100%" alt="Current focus: 01 Full Stack — end-to-end products · 02 AI Automation — agents, pipelines, workflow tooling · 03 Backend — APIs, data models, system design · 04 Open Source — contributing and maintaining" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
+
+## ⌘ FEATURED PROJECTS
+
+<div align="center">
+
+<!-- Every card is CLICKABLE → its repository. Animated SVG, monochrome theme. -->
+
+<a href="https://github.com/alpharabbit9/Rabbitverse"><img src="./assets/project-01.svg" width="49%" alt="001 — Rabbitverse · A private life-tracking PWA with a reactive rabbit mascot · TypeScript, PostgreSQL, PWA" /></a> <a href="https://github.com/alpharabbit9/AI-Powered-Real-Estate-Lead-Qualification-Appointment-Booking-System"><img src="./assets/project-02.svg" width="49%" alt="002 — Real-Estate Lead AI · Production SaaS that converts property inquiries into booked calls · TypeScript, Next.js, AI" /></a>
+
+<a href="https://github.com/alpharabbit9/Health-AI"><img src="./assets/project-03.svg" width="49%" alt="003 — Health-AI · Cross-platform health companion built with Flutter · Dart, C++" /></a> <a href="https://github.com/alpharabbit9/Beyond-Silence"><img src="./assets/project-04.svg" width="49%" alt="004 — Beyond-Silence · An early-stage project, quietly in progress" /></a>
+
+<a href="https://github.com/alpharabbit9/AI-instant-Lead-Response-System"><img src="./assets/project-05.svg" width="49%" alt="005 — Instant Lead Response · Engages inbound leads in real time with AI-assisted replies · TypeScript, Next.js" /></a> <a href="https://github.com/alpharabbit9/Ai-Resume-builder-client"><img src="./assets/project-06.svg" width="49%" alt="006 — AI Resume Builder · Generates tailored, ATS-friendly resumes from a single profile · JavaScript, Next.js" /></a>
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=alpharabbit9&background=0D0D0D&border=2A2A2A&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=737373" alt="Streak Stats" />
+<sub><samp>
+<a href="https://github.com/alpharabbit9/Rabbitverse">001 RABBITVERSE</a> &nbsp;·&nbsp;
+<a href="https://github.com/alpharabbit9/AI-Powered-Real-Estate-Lead-Qualification-Appointment-Booking-System">002 REAL-ESTATE LEAD AI</a> &nbsp;·&nbsp;
+<a href="https://github.com/alpharabbit9/Health-AI">003 HEALTH-AI</a> &nbsp;·&nbsp;
+<a href="https://github.com/alpharabbit9/Beyond-Silence">004 BEYOND-SILENCE</a> &nbsp;·&nbsp;
+<a href="https://github.com/alpharabbit9/AI-instant-Lead-Response-System">005 INSTANT LEAD RESPONSE</a> &nbsp;
+<a href="https://ai-instant-lead-response-system.vercel.app">↗ LIVE</a> &nbsp;·&nbsp;
+<a href="https://github.com/alpharabbit9/Ai-Resume-builder-client">006 AI RESUME BUILDER</a>
+</samp></sub>
 
-<br/>
-<br/>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ══════════════════════ ACTIVITY ══════════════════════ -->
+
+## ⌘ ACTIVITY
+
+<div align="center">
+
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alpharabbit9&bg_color=0D0D0D&color=A3A3A3&line=FFFFFF&point=FFFFFF&area=true&area_color=191919&hide_border=false&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution Graph" />
@@ -344,8 +131,7 @@ Building scalable AI products and backend systems while contributing to open sou
 <br/>
 
 <!-- SNAKE ANIMATION ─ generated by .github/workflows/snake.yml (Platane/snk).
-     Monochrome palette matched to the profile theme; swaps with GitHub's
-     light/dark mode automatically. -->
+     Monochrome palette, swaps with GitHub light/dark mode automatically. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpharabbit9/alpharabbit9/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/alpharabbit9/alpharabbit9/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -355,11 +141,7 @@ Building scalable AI products and backend systems while contributing to open sou
 
 </div>
 
-<br/>
-
-<div align="center">──────────────────────────────</div>
-
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ══════════════════════ CONNECT ══════════════════════ -->
 
@@ -379,8 +161,6 @@ Building scalable AI products and backend systems while contributing to open sou
 <a href="mailto:hello@alpharabbit9.dev"><img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
 <a href="https://x.com/alpharabbit9"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-&nbsp;
-<a href="https://discord.com/users/alpharabbit9"><img src="https://img.shields.io/badge/DISCORD-0D0D0D?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 <br/>
 <br/>
@@ -395,7 +175,7 @@ Building scalable AI products and backend systems while contributing to open sou
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <br/>
 
@@ -406,10 +186,6 @@ Building scalable AI products and backend systems while contributing to open sou
 <sub>— FRÉDÉRIC CHOPIN</sub>
 
 <br/>
-<br/>
-
-──────────────────────
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=alpharabbit9&style=flat-square&color=191919&label=PROFILE+VIEWS&labelColor=0D0D0D" alt="profile views" />
